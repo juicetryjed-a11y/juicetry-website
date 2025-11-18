@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  
+  <!-- الصفحة الرئيسية -->
+  <url>
+    <loc>https://juicetry.com/</loc>
+    <lastmod>2025-01-09</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://juicetry.com/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://juicetry.com/en/" />
+  </url>
+  
+  <!-- صفحة المنيو -->
+  <url>
+    <loc>https://juicetry.com/menu</loc>
+    <lastmod>2025-01-09</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://juicetry.com/menu" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://juicetry.com/en/menu" />
+  </url>
+  
+  <!-- صفحة المقالات -->
+  <url>
+    <loc>https://juicetry.com/blog</loc>
+    <lastmod>2025-01-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://juicetry.com/blog" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://juicetry.com/en/blog" />
+  </url>
+  
+  <!-- صفحة من نحن -->
+  <url>
+    <loc>https://juicetry.com/about</loc>
+    <lastmod>2025-01-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://juicetry.com/about" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://juicetry.com/en/about" />
+  </url>
+  
+  <!-- صفحة اتصل بنا -->
+  <url>
+    <loc>https://juicetry.com/contact</loc>
+    <lastmod>2025-01-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://juicetry.com/contact" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://juicetry.com/en/contact" />
+  </url>
+  
+</urlset>
